@@ -18,7 +18,6 @@
 </p>
 
 <p>
-    &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=przemo199&show_icons=true&locale=en&theme=dark&count_private=true" alt="przemo199" />
 </p>
 
